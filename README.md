@@ -1,1 +1,1 @@
-# Triba
+# Triba - Reinforcement learning
